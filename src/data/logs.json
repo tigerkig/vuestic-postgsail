@@ -1,0 +1,22 @@
+[
+  {
+    "id": 2,
+    "Name": "Knipan to Ekenäs",
+    "From": "Knipan",
+    "Started": "2022-08-28T19:30:12",
+    "To": "Ekenäs",
+    "Ended": "2022-08-28T19:48:12",
+    "Distance": 8686,
+    "Duration": "00:18:00"
+  },
+  {
+    "id": 1,
+    "Name": "Bollsta to Hamnterassen Baywatch",
+    "From": "Bollsta",
+    "Started": "2022-08-28T19:02:12",
+    "To": "Hamnterassen Baywatch",
+    "Ended": "2022-08-28T19:27:12",
+    "Distance": 7170,
+    "Duration": "00:25:00"
+  }
+]
